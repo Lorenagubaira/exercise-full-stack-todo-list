@@ -9,6 +9,8 @@ This exercise is divided in two main phases:
 
 If you already did the front-end or the back-end phase in a previous exercises (or something similar) you can copy & paste your code into this boilerplate and adapt it to make it work, you will still learn a lot by doing that.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 Do not clone this repository.
@@ -23,6 +25,8 @@ $ git clone https://tinyurl.com/yfj4grel
 ```
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+</onlyfor>
 
 ## 📝 Back-end Instructions
 
