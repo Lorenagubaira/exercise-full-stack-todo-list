@@ -10,6 +10,8 @@ Este ejercicio está dividido en dos fases:
 
 Si ya hiciste el front-end o back-end en algún ejercicio previo ( o algo similar) puedes copiar y pegar tu código dentro de este boilerplate y adaptarlo para que funcione, aprenderás mucho haciéndolo.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar el proyecto
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs + flask boilerplate](https://tinyurl.com/yfj4grel):
@@ -22,6 +24,8 @@ $ git clone https://tinyurl.com/yfj4grel
 ```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## 📝 Instrucciones para el Back-end 
 
