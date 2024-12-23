@@ -1,4 +1,6 @@
+<!--hide-->
 # Full Stack Todo List
+<!--endhide-->
 
 Este ejercicio está dividido en dos fases:
 
@@ -14,11 +16,12 @@ Si ya hiciste el front-end o back-end en algún ejercicio previo ( o algo simila
   
 ## 🌱  Cómo iniciar el proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs + flask boilerplate](https://tinyurl.com/yfj4grel):
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [haciendo clic aquí](https://tinyurl.com/yfj4grel).
+Recomendamos abrir el `vanillajs + flask boilerplate`,  utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonar el repositorio de [GitHub](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github) en tu computadora local utilizando el comando `git clone`.  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que necesitas abrir o clonar:  
+
 ```sh
 $ git clone https://tinyurl.com/yfj4grel
 ```
